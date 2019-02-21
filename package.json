@@ -1,0 +1,23 @@
+{
+  "name": "babel-simple-add",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJingv/babel-addtion-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJingv/babel-addtion-plugin/issues"
+  },
+  "homepage": "https://github.com/MJingv/babel-addtion-plugin#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-types": "^6.26.0"
+  }
+}
