@@ -5,3 +5,5 @@ const result = babel.transform("const result = 1 + 2;", {
 		require("./index")
 	]
 });
+
+console.log(result.code); // const result = 3;
